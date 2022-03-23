@@ -1,0 +1,23 @@
+{
+    "name": "solcompiler",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+	"test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+	"type": "git",
+	"url": "git+https://github.com/ContractSupplyChain/SolCompiler.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+	"url": "https://github.com/ContractSupplyChain/SolCompiler/issues"
+    },
+    "devDependencies": {
+        "solc": "^0.8.13"
+    },
+    "homepage": "https://github.com/ContractSupplyChain/SolCompiler#readme"
+}
