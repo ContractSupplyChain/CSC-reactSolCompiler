@@ -1,1 +1,2 @@
-# Helper for compiler solidity on browser
+# SolCompiler
+Helper for compile solidity on browser
