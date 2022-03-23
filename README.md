@@ -1,1 +1,1 @@
-# CSC-reactSolCompiler
+# Helper for compiler solidity on browser
